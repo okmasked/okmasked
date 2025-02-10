@@ -1,6 +1,6 @@
 # Hi, I’m @okmasked
- I’m interested in Cats and Rotting /br
- I’m currently learning Rust and LaTex /br
+ I’m interested in Cats and Rotting \
+ I’m currently learning Rust and LaTex \
  Fun fact: I have no idea which me i am currently
 
 <!---
