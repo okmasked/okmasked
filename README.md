@@ -1,6 +1,6 @@
 # Hi, I’m @okmasked
- I’m interested in Cats and Rotting \
- I’m currently learning Rust and LaTex \
+ I’m interested in Cats and Linguistics \
+ I’m currently learning Rust and LaTex, and also trying to make a new writing system/language \
  Fun fact: I have no idea which me i am currently
 
 <!---
