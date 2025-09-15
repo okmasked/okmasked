@@ -1,7 +1,6 @@
 # Hi, I’m @okmasked
- I’m interested in Cats and dehydration\
- I’m currently learning Rust and LaTex\
- Fun fact: I have no idea which me i am currently
+ If you ever search for me, why?\
+ I am the most uninteresting person you could find
 
 <!---
 okmasked/okmasked is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
